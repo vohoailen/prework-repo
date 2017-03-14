@@ -46,8 +46,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+1. How to create Navigator control on React Native?
+First of all, you need to read the Navigator document from website: https://facebook.github.io/react-native/releases/0.26/docs/navigator.html. After that, you should try to implement the navigator on the first screen. (Add Navigator View into your js file.). If you get any error with this control, please search it into the google search. Lol >_<  
+The good example of Navigator control: https://github.com/jlsuarezs/ReactNativeNavigationExample
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
